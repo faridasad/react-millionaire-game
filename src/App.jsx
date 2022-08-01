@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import "./App.css";
-import Question from "./components/question";
+import Question from "./components/Question";
 import Start from "./components/Start";
 import { moneyPyramid } from "./data/moneyPyramid";
 
